@@ -12,7 +12,7 @@ Range finder in C with Rpi Pico, HC-SR04 ultrasonic sensor, and an SSD1306 OLED 
 
 - Raspberry Pi Pico
 - HC-SR04 Ultrasonic Sensor
-- ssd1306 128x32 OLED Dispplay
+- ssd1306 128x32 OLED Display
 
 ## Schematic
 
