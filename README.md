@@ -1,10 +1,12 @@
 # Range Finder
 
-/// TODO: fill out this readme skeleton
-
 ## About
 
+Range finder in C with Rpi Pico, HC-SR04 ultrasonic sensor, and an SSD1306 OLED display. For fun nd keeping up chops.
+
 ## Image of Project
+
+![Range Finder](./img/range_finder.jpg "range finder")
 
 ## Modules
 
@@ -14,7 +16,7 @@
 
 ## Schematic
 
-
+// TODO: Add Schematic
 
 ## References
 
