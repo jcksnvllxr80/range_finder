@@ -2,7 +2,7 @@
 
 ## About
 
-Range finder in C with Rpi Pico, HC-SR04 ultrasonic sensor, and an SSD1306 OLED display. For fun nd keeping up chops.
+Range finder in C with Rpi Pico, HC-SR04 ultrasonic sensor, and an SSD1306 OLED display. This project is for fun and keeping up chops.
 
 ## Image of Project
 
