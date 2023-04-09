@@ -16,7 +16,7 @@ Range finder in C with Rpi Pico, HC-SR04 ultrasonic sensor, and an SSD1306 OLED 
 
 ## Schematic
 
-// TODO: Add Schematic
+![Wiring Diagram](./img/range_finder_schematic.png "range finder diagram")
 
 ## References
 
@@ -38,3 +38,8 @@ Range finder in C with Rpi Pico, HC-SR04 ultrasonic sensor, and an SSD1306 OLED 
 - https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 - https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
 - https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf
+
+#### Fritzing
+
+- https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html#pinout-and-design-files
+- https://forum.fritzing.org/t/0-91-inch-oled-i2c-display-128-x-32-pixels/17873
